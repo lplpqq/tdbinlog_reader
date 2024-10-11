@@ -1,5 +1,5 @@
 # td.binlog-reader
- Any [TDLib](https://github.com/tdlib/td) application stores its cache data inside the **td.binlog** file. All data is stored as a **dictionary**, with keys and values. It contains: datacenters' info, auth keys, locales etc. This utility will help you to decode **td.binlog** file and return its map.
+ Any [TDLib](https://github.com/tdlib/td) application stores its cache data inside the **td.binlog** file. All data is stored as a **dictionary**, with keys and values. It contains: datacenters' info, auth keys, locales etc. This utility will help you to decode **td.binlog** file and use its map.
 
 ## Setup
 
